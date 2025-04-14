@@ -1,4 +1,4 @@
 # Ignore Visual Studio temporary files
 .vs/*
-KickStartMVC/bin/*
-KickStartMVC/obj/*
+*/bin/*
+*/obj/*
