@@ -1,4 +1,4 @@
-namespace KickStartMVC.Models
+namespace KickStart.Models
 {
     public class ErrorViewModel
     {

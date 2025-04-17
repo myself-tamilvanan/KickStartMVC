@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace KickStartMVC.Migrations
+namespace KickStart.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class CreateCategoryTableToDB : Migration

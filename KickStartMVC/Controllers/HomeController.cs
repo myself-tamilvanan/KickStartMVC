@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using KickStartMVC.Models;
+using KickStart.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KickStartMVC.Controllers

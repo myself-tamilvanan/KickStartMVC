@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace KickStartMVC.Models
+namespace KickStart.Models
 {
     public class CategoryModel
     {

@@ -1,4 +1,4 @@
-using KickStartMVC.Data;
+using KickStart.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

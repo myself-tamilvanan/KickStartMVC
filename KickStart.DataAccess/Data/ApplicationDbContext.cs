@@ -1,7 +1,7 @@
-﻿using KickStartMVC.Models;
+﻿using KickStart.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace KickStartMVC.Data
+namespace KickStart.DataAccess.Data
 {
     public class ApplicationDbContext: DbContext
     {

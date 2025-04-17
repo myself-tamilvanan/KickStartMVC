@@ -1,5 +1,5 @@
-using KickStartMVC.Data;
-using KickStartMVC.Models;
+using KickStart.DataAccess.Data;
+using KickStart.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KickStartMVC.Controllers
